@@ -1,0 +1,1 @@
+Please use npm install command in api and ui folders if they are giving and errors for module not found.
